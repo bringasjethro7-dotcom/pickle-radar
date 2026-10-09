@@ -1,0 +1,21 @@
+{
+ "name": "Pickle Radar",
+ "short_name": "Pickle Radar",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F3F6EA",
+ "theme_color": "#0B3B36",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
